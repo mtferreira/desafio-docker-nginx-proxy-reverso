@@ -15,4 +15,4 @@ Suba tudo em um repositório e faça a entrega.
 ```
 
 
-Para subir a aplicação basta entrar na pasta e rodar ```docker-compose up -d```, a aplicação estará disponível na porta [8080](http://0.0.0.0:8080/)
+Para subir a aplicação basta entrar na pasta e rodar ```docker-compose up -d```, a aplicação estará disponível na porta [8080](http://0.0.0.0:8080/) assim que todas dependências forem resolvidas.
